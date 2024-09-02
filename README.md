@@ -15,3 +15,14 @@ https://ita.tech/que-es-un-cable-de-parcheo-patch-panel
 https://www.oas.org/es/citel/infocitel/2010/abril/ftth_e.asp#:~:text=La%20fibra%20%C3%B3ptica%20es%20una,40%20kms.%20de%20fibra%20%C3%B3ptica.
 
 https://thorsmex.mx/blog/canaletas-para-cableado-soluciones-esteticas/#:~:text=Las%20canaletas%20para%20cables%20son,de%20forma%20segura%20y%20efectiva.
+
+https://www.rackonline.es/content/que-es-un-sistema-de-cableado-estructurado#:~:text=La%20norma%20EIA%2FTIA%20568A,cuarto%20de%20telecomunicaciones%20o%20viceversa.
+
+https://www.rackonline.es/content/que-es-un-sistema-de-cableado-estructurado#:~:text=Cableado%20vertical%2C%20troncal%20o%20backbone,en%20edificios%20de%20varios%20pisos.
+
+https://www.adrformacion.com/knowledge/administracion-de-sistemas/el_cableado_estructurado_de_una_red_de_area_local.html#:~:text=Se%20reconocen%20tres%20tipos%20de,o%20micr%C3%B3metros)%20y%20dos%20fibras.
+
+https://community.fs.com/es/article/patch-cable-vs-crossover-cable-what-is-the-difference.html#:~:text=cable%20cruzado%3A%20%C2%BFcu%C3%A1ndo%20usarlos%3F,un%20PC%20y%20un%20switch.
+
+https://es.wikipedia.org/wiki/RJ-45#:~:text=El%20cable%20directo%20de%20red,deben%20tener%20la%20misma%20distribuci%C3%B3n.
+
